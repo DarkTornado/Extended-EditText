@@ -6,7 +6,7 @@
 * 안드로이드의 EditText를 확장시킨거에요.
 
 
-### Added Constant / 추가된 상수
+## Added Constant / 추가된 상수
 
 #### static int DIR_LEFT
 * Static constant for moveCursor(); Value is `-1`
